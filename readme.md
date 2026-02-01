@@ -50,7 +50,7 @@ project_root/
 
 ---
 
-## Setting the Working Directory
+## Running the code in ChimeraX
 
 1. Copy the path of the `chimera_vis_script.py` (use **Command + Option + C**).
 
